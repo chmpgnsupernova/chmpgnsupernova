@@ -84,16 +84,3 @@
 * **Logistics Staff (Best Staff Award)** @ OMB UMN
 
 <br/>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianmariarvin&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="Brian's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmariarvin&layout=compact&theme=dark&hide_border=true&bg_color=000000" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Let's connect and build something amazing together!</sub>
-</div>
