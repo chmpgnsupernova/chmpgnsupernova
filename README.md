@@ -1,83 +1,36 @@
-<div align="center">
-  <h1 align="center">Hi there, I'm Brian Mariarvin! 👋</h1>
-  <h3 align="center">Front-End Engineer | Mobile Developer | UI/UX Enthusiast</h3>
+# Brian Mariarvin
 
-  <p align="center">
-    Based in Indonesia 🇮🇩 | Transforming complex problems into beautiful interfaces.
-  </p>
+Front-end developer and Informatics student at Universitas Multimedia Nusantara (graduating 2027), based in Tangerang, Indonesia.
 
-  <div align="center">
-    <a href="mailto:brianmariarvin@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/fransiskus-asisi-brian-nugrah-mariarvin-ab852828a/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </div>
-</div>
+I started in UI/UX design and moved into front-end development. I currently build web interfaces with Vue, React, and TypeScript, and I'm working toward full-stack development.
 
-<br/>
+## Recent work
 
-## 🚀 Tech Stack
+**Front-End Developer Intern, PT PLN Icon Plus** (Mar–Jul 2026)
+Built the Vue 3 + TypeScript front-end for an internal LNG supply monitoring platform, working against REST APIs owned by the back-end team. The code is internal, so it isn't on this profile.
 
-<div align="center">
+## Projects on GitHub
 
-**Core & Web**
-<br/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [claude-office](https://github.com/chmpgnsupernova/claude-office) | Local dashboard that shows one desk per Claude Code session (status, context usage, cost). Work in progress. | TypeScript, React, Vite, Fastify |
+| [supplyhub](https://github.com/chmpgnsupernova/supplyhub) | Clickable web prototype of a marketplace and community platform for agricultural supplies. | HTML, CSS, JavaScript |
+| [MyPortofolio](https://github.com/chmpgnsupernova/MyPortofolio) | My personal portfolio site. | React, Vite |
 
-**Mobile & Backend**
-<br/>
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+## Other projects (code not public)
 
-**Tools & Design**
-<br/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+- **ByBrandy**: website for a gown rental business (8-person course project for a real client). I built the admin dashboard: products, orders, and user roles. Laravel, MySQL, Bootstrap.
+- **Moodlens**: Android mood-tracking app. I built the Mood Journal module UI in Jetpack Compose.
+- **Beautiful of Java**: regional tourism website. Designed the user flow and built the dashboard, map, and destination detail pages in a 4-person team. React.js.
 
-</div>
+## Skills
 
-<br/>
+TypeScript, JavaScript, Vue 3, React, Tailwind CSS, Laravel, Kotlin (Jetpack Compose), Git, Figma
 
-## 💻 Featured Projects
+## Certifications
 
-| Project | Role & Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Moodlens** 🧠 | **Front-End Specialist & Full Stack**<br>AI-based mental health tracking app detecting real-time facial emotions. Handled UI/UX with Jetpack Compose & core logic for Reflection features. | `Kotlin` `Jetpack Compose` `TensorFlow Lite` |
-| **ByBrandy** 👗 | **Full-Stack Engineer**<br>Hybrid fashion platform for custom gown rental & sales. Built the entire Admin Panel architecture and managed complex data flows for inventory. | `Laravel` `Bootstrap` `MySQL` |
-| **Holinery** 🍲 | **Team Leader & UI/UX**<br>Mobile app prototype of a culinary encyclopedia preserving traditional Indonesian recipes. Spearheaded the concept and high-fidelity prototyping. | `Android XML` `Java` `Figma` |
-| **Rehub** 🏥 | **UI/UX Designer**<br>Digital rehabilitation ecosystem connecting medical & mental services. Designed 17+ core pages including Dashboard and Progress Tracking. | `Figma` `Prototyping` |
-| **Beautiful Central Java** 🏔️ | **Front-End Specialist**<br>Tourism web portal showcasing priority destinations in Central Java. Focused on responsive layouting and immersive UI. | `HTML/CSS` `Bootstrap 5` |
+Huawei Certified in Database, Huawei Certified in AI (Huawei ICT Academy), EF SET English C2
 
-<br/>
+## Contact
 
-## 🏆 Awards & Certifications
-
-* 🏆 **Top 5 Finalist UI/UX Design** - ISFEST (Healthcare Sector)
-* 🥈 **2nd Place Career Path Competition** - Career Development Center (CDC)
-* 📜 **Huawei Certified in AI** - Huawei ICT Academy
-* 📜 **Huawei Certified in Database** - Huawei ICT Academy
-* 🌍 **EF SET Certificate (C2 Proficient)** - Mastery in English
-
-<br/>
-
-## 👔 Organizational Experience
-
-* **Floor Director** @ Dewa United (Event Division)
-* **Liaison Officer (LO)** @ Tangerang Hawks Basketball
-* **Equipment Coordinator** @ Feel d'Flow 2024
-* **Logistics Staff (Best Staff Award)** @ OMB UMN
-
-<br/>
+brianmariarvin@gmail.com · [LinkedIn](https://www.linkedin.com/in/fransiskus-asisi-brian-nugrah-mariarvin-ab852828a/) · [Portfolio](https://my-portofolio-lemon-eight.vercel.app)
